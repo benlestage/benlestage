@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I am a current Senior at St. Lawrence University in Canton, NY
+
+I will be graduating with a Government Major and Statistics minor with a focus in Data Science
+
+Most of my work has been focused on combining my interests in both Government and Statistics largely focused on Data surrounding the Supreme Court and creating models to predict certiorari votes and exploring other relationships.
+
+
 
 <!--
 **benlestage/benlestage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
