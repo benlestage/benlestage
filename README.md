@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Ben LeStage, I am a middle school history teacher and admissions associate at Indian Mountain School in Lakeville, CT.
+My name is Ben LeStage, I am a seventh grade history teacher and admissions associate at Indian Mountain School in Lakeville, CT. On campus, I also Coach Varsity Hockey and JV Boys Lacrosse, advise a group of students, and work as a dorm parent. Living on campus is great and the location of school is ideal as it allows me to fly fish almost daily on the famous Housatonic river.
 
 I graduated from St Lawrence University in May of 2024 with a degree in Government/Political Science, in my studies at St. Lawrence I graduated with a minor in Statistics with a focus in Data Science.
 
