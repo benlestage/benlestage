@@ -1,10 +1,12 @@
 ### Hello 👋
 
-I am a current Senior at St. Lawrence University in Canton, NY
+My name is Ben LeStage, I am a middle school history teacher and admissions associate at Indian Mountain School in Lakeville, CT.
 
-I will be graduating with a Government Major and Statistics minor with a focus in Data Science
+I graduated from St Lawrence University in May of 2024 with a degree in Government/Political Science, in my studies at St. Lawrence I graduated with a minor in Statistics with a focus in Data Science.
 
 Most of my work has been focused on combining my interests in both Government and Statistics largely focused on Data surrounding the Supreme Court and creating models to predict certiorari votes and exploring other relationships.
+
+In my current role, I am using R to analyze data in the admissions office.
 
 
 
